@@ -102,6 +102,7 @@ a {
   color: white;
   background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
   background-color: black;
+  filter: brightness(20%);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
